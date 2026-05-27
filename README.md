@@ -2,7 +2,7 @@
 
 Welcome to my official portfolio repository! This is a fully responsive website showcasing my web design and development journey, projects, and skills.
 
-🌐 **[Live Demo](https://brahmauixdev.github.io)**
+🌐 **[Live Demo](https://brahmauixdev.github.io/)**
 
 ---
 
@@ -21,7 +21,6 @@ Welcome to my official portfolio repository! This is a fully responsive website 
 
 ## 📬 Connect With Me
 * **GitHub:** [@BrahmaUixDev](https://github.com/BrahmaUixDev)
-* **Email:** [brahmanandad7@gmail.com]
 
 ---
 ⭐️ *Feel free to star this repository if you like my work!*
