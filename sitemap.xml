@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<loc>https://brahmauixdev.vercel.app/</loc>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brahmauixdev.github.io/</loc>
+    <loc>https://brahmauixdev.vercel.app/</loc>
     <lastmod>2026-08-06</lastmod>
     <priority>1.0</priority>
   </url>
